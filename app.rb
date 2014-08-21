@@ -13,7 +13,7 @@ class Cici
                 "Halucinant!", "Gafă monumentală!", "Reacție neașteptată!",
                 "Dumnezeule!", "Foto incendiar!"],
       promisiune_falsa: ["N-o să-ți vină să crezi", "O să leșini de râs",
-                         "O să o iei razva", "O să te emoționeze și pe tine",
+                         "O să o iei razna", "O să te emoționeze și pe tine",
                          "O să cedezi psihic", "O să înlemnești",
                          "O să-ți sângereze ochii", "O să-ți bați copii",
                          "Sigur n-o să poți dormi la noapte"],
